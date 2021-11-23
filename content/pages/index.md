@@ -43,11 +43,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-    feature:
-      type: ImageBlock
-      url: /images/hero-1.png
-      altText: Image alt text
-      caption: Image caption
     styles:
       self:
         height: auto
