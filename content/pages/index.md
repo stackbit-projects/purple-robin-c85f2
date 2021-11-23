@@ -31,7 +31,7 @@ sections:
         showIcon: false
         icon: arrowLeft
         iconPosition: right
-        style: secondary
+        style: link
         elementId: ''
         type: Button
       - label: Learn more
