@@ -114,7 +114,7 @@ sections:
     enableHover: false
     styles:
       self:
-        width: wide
+        width: narrow
         height: auto
         margin:
           - mt-0
