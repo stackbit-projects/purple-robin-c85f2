@@ -72,16 +72,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    feature:
-      thumbnailUrl: >-
-        https://assets.stackbit.com/components/images/default/stackbit-for-marketers.jpeg
-      autoplay: false
-      loop: false
-      muted: false
-      controls: false
-      elementId: ''
-      type: VideoBlock
-      url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
   - colors: colors-h
     elementId: ''
     images:
