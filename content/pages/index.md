@@ -437,6 +437,7 @@ sections:
             style: secondary
             elementId: ''
             type: Button
+        rating: 2
       - type: ItemBlock
         title: How it this different from what we have today?
         text: >
