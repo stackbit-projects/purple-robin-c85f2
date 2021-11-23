@@ -29,7 +29,7 @@ sections:
         altText: Learn more
         url: /
         showIcon: true
-        icon: arrowLeft
+        icon: linkedin
         iconPosition: left
         style: primary
         elementId: ''
