@@ -28,7 +28,7 @@ sections:
       - label: "Learn more \U0001F44B"
         altText: Learn more
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowLeft
         iconPosition: left
         style: primary
