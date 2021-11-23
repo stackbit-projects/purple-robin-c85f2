@@ -77,7 +77,7 @@ sections:
         https://assets.stackbit.com/components/videos/default/stackbit-for-marketers.mp4
       thumbnailUrl: >-
         https://assets.stackbit.com/components/images/default/stackbit-for-marketers.jpeg
-      autoplay: false
+      autoplay: true
       loop: false
       muted: false
       controls: false
