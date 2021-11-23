@@ -30,7 +30,7 @@ sections:
         url: /
         showIcon: false
         icon: arrowLeft
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
         type: Button
