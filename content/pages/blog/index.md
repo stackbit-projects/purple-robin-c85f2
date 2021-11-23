@@ -32,5 +32,5 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    recentCount: 2
+    recentCount: 6
 ---
