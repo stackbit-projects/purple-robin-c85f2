@@ -81,6 +81,7 @@ sections:
       controls: false
       elementId: ''
       type: VideoBlock
+      url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
   - colors: colors-h
     elementId: ''
     images:
