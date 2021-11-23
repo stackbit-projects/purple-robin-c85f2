@@ -75,7 +75,7 @@ sections:
         url: /
         style: link
         showIcon: true
-        icon: arrowRight
+        icon: facebook
     feature:
       type: ImageBlock
       url: /images/hero-3.jpg
