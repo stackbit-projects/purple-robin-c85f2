@@ -33,4 +33,5 @@ sections:
       actions:
         justifyContent: center
     recentCount: 6
+    subtitle: wakawaka
 ---
