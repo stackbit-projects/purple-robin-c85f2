@@ -29,7 +29,7 @@ sections:
         altText: Learn more
         url: /
         showIcon: true
-        icon: github
+        icon: cart
         iconPosition: left
         style: primary
         elementId: ''
