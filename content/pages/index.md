@@ -25,7 +25,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Learn more
+      - label: "Learn more \U0001F44B"
         altText: Learn more
         url: /
         showIcon: false
