@@ -29,7 +29,7 @@ sections:
         altText: Learn more
         url: /
         showIcon: true
-        icon: linkedin
+        icon: github
         iconPosition: left
         style: primary
         elementId: ''
