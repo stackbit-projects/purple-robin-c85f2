@@ -1,5 +1,5 @@
 ---
-title: Post Title
+title: My bigly post
 date: '2021-11-23'
 excerpt: >-
   This is the excerpt of your blog post visible in the post feed or featured
