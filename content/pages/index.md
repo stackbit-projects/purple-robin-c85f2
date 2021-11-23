@@ -78,7 +78,7 @@ sections:
         icon: facebook
     feature:
       type: ImageBlock
-      url: /images/hero-3.jpg
+      url: /images/apple.svg
       altText: Hero section image
     styles:
       self:
