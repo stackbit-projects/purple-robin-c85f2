@@ -426,6 +426,7 @@ sections:
             textAlign: left
           text:
             textAlign: left
+        isRatingVisible: true
       - type: ItemBlock
         title: How it this different from what we have today?
         text: >
