@@ -426,7 +426,7 @@ sections:
             textAlign: left
           text:
             textAlign: left
-        rating: 3
+        rating: 2
       - type: ItemBlock
         title: How it this different from what we have today?
         text: >
