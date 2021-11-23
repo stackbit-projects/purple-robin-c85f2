@@ -78,7 +78,7 @@ sections:
       thumbnailUrl: >-
         https://assets.stackbit.com/components/images/default/stackbit-for-marketers.jpeg
       autoplay: true
-      loop: false
+      loop: true
       muted: false
       controls: false
       elementId: ''
