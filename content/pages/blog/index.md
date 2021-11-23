@@ -6,7 +6,7 @@ sections:
     variant: variant-a
     colors: colors-a
     title: Blog
-    showRecent: false
+    showRecent: true
     styles:
       self:
         height: auto
