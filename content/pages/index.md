@@ -65,7 +65,7 @@ sections:
         borderStyle: none
         borderColor: border-dark
       title:
-        textAlign: left
+        textAlign: center
         fontStyle: italic
       subtitle:
         textAlign: left
